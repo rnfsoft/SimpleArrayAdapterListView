@@ -8,6 +8,6 @@ Device: Emulator64-x86
 
 Testing: Successful (No Errors Found)
 
-![alt tag](https://raw.github.com/username/projectname/branch/path/to/img.png)
+https://cloud.githubusercontent.com/assets/11301947/9418862/eecff296-480b-11e5-84c8-5b9e28776917.png
 
 
