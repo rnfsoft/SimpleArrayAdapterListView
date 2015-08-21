@@ -8,5 +8,5 @@ Device: Emulator64-x86
 
 Testing: Successful (No Errors Found)
 
-https://raw.github.com/ryanmaxwell/iArrived/master/Screenshots/Settings.png
+![alt tag](https://raw.github.com/ryanmaxwell/iArrived/master/Screenshots/Settings.png)
 
