@@ -2,9 +2,11 @@
 
 Codes from http://guides.codepath.com/android/Using-an-ArrayAdapter-with-ListView#using-a-custom-arrayadapter
 
-Duration: 30 mins
+Time: 0.5 hr
 
-Device: Emulator64-x86
+Level: 1/3
+
+Device: Emulator
 
 Testing: Successful (No Errors Found)
 
